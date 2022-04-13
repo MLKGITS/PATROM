@@ -1,0 +1,33 @@
+*{
+	margin: px;
+	padding: px;
+}
+
+/*
+.responsiv{
+  padding: 1px;
+  float: left;
+  object-fit: cover;
+  width: 30%;
+  
+	
+}*/
+
+div.polaroid {
+  width: 100%;
+  background-color: white;
+  float: left;
+}
+
+img {
+	
+	width:;
+
+}
+
+div.container {
+  text-align: center;
+  padding: 5px 10px;
+  margin: 10px;
+  
+}
